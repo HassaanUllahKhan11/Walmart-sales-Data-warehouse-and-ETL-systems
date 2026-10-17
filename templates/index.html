@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Know Your Numbers · Sales dashboard</title>
+  <meta name="description" content="A weekly sales dashboard for small online shops: revenue trend, best sellers, repeat customers, seasonality and plain-English insights.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%232a78d6'/><path d='M8 22l5-6 4 3 7-9' stroke='white' stroke-width='3' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+  <script>
+    // ?theme=light or ?theme=dark overrides the OS setting (handy for screenshots and demos)
+    const t = new URLSearchParams(location.search).get("theme");
+    if (t === "light" || t === "dark") document.documentElement.dataset.theme = t;
+  </script>
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <div>
+        <p class="eyebrow">Know your numbers</p>
+        <h1 id="store-name">{{ data.source.name }}</h1>
+        <p class="meta" id="store-meta"></p>
+      </div>
+      <div class="actions">
+        <label class="btn btn-primary" for="file-input">Try it with your own CSV</label>
+        <input type="file" id="file-input" accept=".csv,text/csv" hidden>
+        <a class="btn" href="/sample.csv" id="sample-link">Download sample CSV</a>
+        <button class="btn" id="reset" type="button" hidden>Back to sample store</button>
+      </div>
+    </div>
+    <div class="wrap"><p class="status" id="status" role="status" aria-live="polite"></p></div>
+  </header>
+
+  <main class="wrap">
+    <section class="card insights" aria-labelledby="insights-title">
+      <div class="card-head">
+        <h2 id="insights-title">This week's notes</h2>
+        <p class="sub" id="week-label"></p>
+      </div>
+      <ol class="notes" id="notes"></ol>
+    </section>
+
+    <section class="kpis" id="kpis" aria-label="Key numbers"></section>
+
+    <section class="card span-2" aria-labelledby="trend-title">
+      <div class="card-head">
+        <div>
+          <h2 id="trend-title">Weekly revenue</h2>
+          <p class="sub">Each point is one Monday-to-Sunday week, compared with the same week a year earlier.</p>
+        </div>
+        <button class="link-btn" data-table="trend" type="button">Show table</button>
+      </div>
+      <div class="legend" id="trend-legend"></div>
+      <div class="chart tall"><canvas id="trend" role="img" aria-label="Weekly revenue line chart"></canvas></div>
+      <div class="table-view" id="trend-table" hidden></div>
+    </section>
+
+    <div class="grid">
+      <section class="card" aria-labelledby="products-title">
+        <div class="card-head">
+          <div>
+            <h2 id="products-title">Top products</h2>
+            <p class="sub">Revenue over the last 90 days, and change from the 90 days before.</p>
+          </div>
+        </div>
+        <table class="products" id="products"></table>
+      </section>
+
+      <section class="card" aria-labelledby="mix-title">
+        <div class="card-head">
+          <div>
+            <h2 id="mix-title">New vs returning customers</h2>
+            <p class="sub">Monthly revenue split by first-time and repeat buyers.</p>
+          </div>
+          <button class="link-btn" data-table="mix" type="button">Show table</button>
+        </div>
+        <div class="legend" id="mix-legend"></div>
+        <div class="chart"><canvas id="mix" role="img" aria-label="Stacked bar chart of new and returning customer revenue by month"></canvas></div>
+        <div class="table-view" id="mix-table" hidden></div>
+      </section>
+
+      <section class="card" aria-labelledby="season-title">
+        <div class="card-head">
+          <div>
+            <h2 id="season-title">Seasonality</h2>
+            <p class="sub">Revenue by calendar month, one line per year.</p>
+          </div>
+          <button class="link-btn" data-table="season" type="button">Show table</button>
+        </div>
+        <div class="legend" id="season-legend"></div>
+        <div class="chart"><canvas id="season" role="img" aria-label="Monthly revenue by year line chart"></canvas></div>
+        <div class="table-view" id="season-table" hidden></div>
+      </section>
+
+      <section class="card" aria-labelledby="weekday-title">
+        <div class="card-head">
+          <div>
+            <h2 id="weekday-title">Best days to sell</h2>
+            <p class="sub" id="weekday-sub">Average revenue by day of week over the last 12 weeks.</p>
+          </div>
+          <button class="link-btn" data-table="weekday" type="button">Show table</button>
+        </div>
+        <div class="chart"><canvas id="weekday" role="img" aria-label="Bar chart of average revenue by weekday"></canvas></div>
+        <div class="table-view" id="weekday-table" hidden></div>
+      </section>
+    </div>
+
+    <section class="pitch">
+      <div>
+        <h2>Want this for your shop?</h2>
+        <p>I connect your Shopify, WooCommerce or POS export, set up the numbers that matter for your business, and send you this view every Monday. Your files are processed in memory on upload and never stored.</p>
+      </div>
+      {% if owner.link or owner.email %}
+      <a class="btn btn-primary" href="{{ owner.link or 'mailto:' ~ owner.email }}">{% if owner.link %}Book a 15-minute call{% else %}Email {{ owner.name or 'me' }}{% endif %}</a>
+      {% endif %}
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>{% if owner.name %}Built by {{ owner.name }}. {% endif %}Sample data is a fictional store. Upload a Shopify orders export (or any CSV with order id, date, product, quantity and price) to see your own numbers.</p>
+  </footer>
+
+  <script id="initial-data" type="application/json">{{ data|tojson }}</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

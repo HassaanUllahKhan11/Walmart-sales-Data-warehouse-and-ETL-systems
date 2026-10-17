@@ -1,0 +1,401 @@
+Product_ID,Product_Category,price$,storeID,storeName,supplierID,supplierName
+P00191536,Electronics,$279.50,8,Harbor Point,2,Brightline Electronics
+P00131195,Electronics,$99.06,3,Lakeview,2,Brightline Electronics
+P00113573,Electronics,$59.85,2,Oak Park,2,Brightline Electronics
+P00219089,Electronics,$122.53,1,Riverside Supercenter,2,Brightline Electronics
+P00394783,Electronics,$74.08,8,Harbor Point,2,Brightline Electronics
+P00237976,Electronics,$439.43,7,Northgate,2,Brightline Electronics
+P00298264,Electronics,$72.58,2,Oak Park,2,Brightline Electronics
+P00323029,Electronics,$31.72,1,Riverside Supercenter,2,Brightline Electronics
+P00088121,Electronics,$173.04,4,Hillcrest,2,Brightline Electronics
+P00046798,Electronics,$166.81,5,Downtown Market,2,Brightline Electronics
+P00098988,Electronics,$73.71,6,Westfield,2,Brightline Electronics
+P00166991,Electronics,$61.04,4,Hillcrest,2,Brightline Electronics
+P00016786,Electronics,$101.35,5,Downtown Market,2,Brightline Electronics
+P00244759,Electronics,$45.47,3,Lakeview,2,Brightline Electronics
+P00112697,Electronics,$178.80,1,Riverside Supercenter,2,Brightline Electronics
+P00123908,Electronics,$90.18,8,Harbor Point,2,Brightline Electronics
+P00330587,Electronics,$78.70,1,Riverside Supercenter,2,Brightline Electronics
+P00277288,Electronics,$300.20,6,Westfield,2,Brightline Electronics
+P00163093,Electronics,$179.98,2,Oak Park,2,Brightline Electronics
+P00230827,Electronics,$383.55,7,Northgate,2,Brightline Electronics
+P00305613,Electronics,$396.84,5,Downtown Market,2,Brightline Electronics
+P00074351,Electronics,$408.06,3,Lakeview,2,Brightline Electronics
+P00129565,Electronics,$74.76,3,Lakeview,2,Brightline Electronics
+P00148889,Electronics,$42.47,1,Riverside Supercenter,2,Brightline Electronics
+P00192061,Electronics,$105.45,2,Oak Park,2,Brightline Electronics
+P00364897,Electronics,$239.56,5,Downtown Market,2,Brightline Electronics
+P00358300,Electronics,$85.95,4,Hillcrest,2,Brightline Electronics
+P00292011,Electronics,$327.71,4,Hillcrest,2,Brightline Electronics
+P00151884,Electronics,$60.11,1,Riverside Supercenter,2,Brightline Electronics
+P00278509,Electronics,$159.90,8,Harbor Point,2,Brightline Electronics
+P00397427,Electronics,$156.51,5,Downtown Market,2,Brightline Electronics
+P00047885,Electronics,$128.98,4,Hillcrest,2,Brightline Electronics
+P00070982,Electronics,$69.83,4,Hillcrest,2,Brightline Electronics
+P00230608,Electronics,$97.28,1,Riverside Supercenter,2,Brightline Electronics
+P00399236,Electronics,$192.26,1,Riverside Supercenter,2,Brightline Electronics
+P00218107,Electronics,$258.97,3,Lakeview,2,Brightline Electronics
+P00304611,Electronics,$239.64,5,Downtown Market,2,Brightline Electronics
+P00104562,Electronics,$34.18,2,Oak Park,2,Brightline Electronics
+P00169606,Electronics,$384.09,2,Oak Park,2,Brightline Electronics
+P00291857,Electronics,$434.87,3,Lakeview,2,Brightline Electronics
+P00126667,Electronics,$37.76,8,Harbor Point,2,Brightline Electronics
+P00277731,Electronics,$182.13,1,Riverside Supercenter,2,Brightline Electronics
+P00207564,Electronics,$194.50,7,Northgate,2,Brightline Electronics
+P00138993,Electronics,$136.29,6,Westfield,2,Brightline Electronics
+P00239132,Electronics,$323.97,8,Harbor Point,2,Brightline Electronics
+P00100317,Electronics,$286.60,1,Riverside Supercenter,2,Brightline Electronics
+P00332340,Electronics,$55.46,4,Hillcrest,2,Brightline Electronics
+P00150704,Electronics,$227.29,2,Oak Park,2,Brightline Electronics
+P00153749,Electronics,$423.47,5,Downtown Market,2,Brightline Electronics
+P00166576,Electronics,$432.04,7,Northgate,2,Brightline Electronics
+P00034324,Grocery,$7.86,8,Harbor Point,1,Meridian Foods
+P00127839,Grocery,$4.81,8,Harbor Point,1,Meridian Foods
+P00394359,Grocery,$3.45,4,Hillcrest,1,Meridian Foods
+P00292602,Grocery,$2.32,4,Hillcrest,1,Meridian Foods
+P00298063,Grocery,$24.50,6,Westfield,1,Meridian Foods
+P00154526,Grocery,$3.32,1,Riverside Supercenter,1,Meridian Foods
+P00233701,Grocery,$12.88,5,Downtown Market,1,Meridian Foods
+P00015985,Grocery,$4.19,7,Northgate,1,Meridian Foods
+P00218396,Grocery,$11.63,1,Riverside Supercenter,1,Meridian Foods
+P00326121,Grocery,$11.94,3,Lakeview,1,Meridian Foods
+P00181810,Grocery,$12.02,5,Downtown Market,1,Meridian Foods
+P00251403,Grocery,$9.55,2,Oak Park,1,Meridian Foods
+P00305141,Grocery,$15.65,2,Oak Park,1,Meridian Foods
+P00284615,Grocery,$2.30,3,Lakeview,1,Meridian Foods
+P00097092,Grocery,$4.07,1,Riverside Supercenter,1,Meridian Foods
+P00342186,Grocery,$12.10,2,Oak Park,1,Meridian Foods
+P00301727,Grocery,$2.01,4,Hillcrest,1,Meridian Foods
+P00076459,Grocery,$5.07,2,Oak Park,1,Meridian Foods
+P00348216,Grocery,$7.36,8,Harbor Point,1,Meridian Foods
+P00358057,Grocery,$3.13,7,Northgate,1,Meridian Foods
+P00355843,Grocery,$6.22,5,Downtown Market,1,Meridian Foods
+P00373184,Grocery,$5.00,4,Hillcrest,1,Meridian Foods
+P00144939,Grocery,$10.63,6,Westfield,1,Meridian Foods
+P00246831,Grocery,$9.60,1,Riverside Supercenter,1,Meridian Foods
+P00340041,Grocery,$6.00,3,Lakeview,1,Meridian Foods
+P00380804,Grocery,$3.09,1,Riverside Supercenter,1,Meridian Foods
+P00292505,Grocery,$19.42,5,Downtown Market,1,Meridian Foods
+P00184383,Grocery,$2.83,1,Riverside Supercenter,1,Meridian Foods
+P00065666,Grocery,$2.65,3,Lakeview,1,Meridian Foods
+P00147547,Grocery,$3.31,8,Harbor Point,1,Meridian Foods
+P00025568,Grocery,$6.84,8,Harbor Point,1,Meridian Foods
+P00260179,Grocery,$8.81,4,Hillcrest,1,Meridian Foods
+P00291827,Grocery,$2.22,1,Riverside Supercenter,1,Meridian Foods
+P00364342,Grocery,$3.36,1,Riverside Supercenter,1,Meridian Foods
+P00021349,Grocery,$2.63,3,Lakeview,1,Meridian Foods
+P00034660,Grocery,$3.48,4,Hillcrest,1,Meridian Foods
+P00206289,Grocery,$18.27,2,Oak Park,1,Meridian Foods
+P00020387,Grocery,$2.85,5,Downtown Market,1,Meridian Foods
+P00378375,Grocery,$4.91,2,Oak Park,1,Meridian Foods
+P00096535,Grocery,$3.93,8,Harbor Point,1,Meridian Foods
+P00131413,Grocery,$2.56,1,Riverside Supercenter,1,Meridian Foods
+P00295815,Grocery,$6.10,7,Northgate,1,Meridian Foods
+P00188629,Grocery,$2.45,5,Downtown Market,1,Meridian Foods
+P00162207,Grocery,$2.68,3,Lakeview,1,Meridian Foods
+P00142664,Grocery,$4.79,6,Westfield,1,Meridian Foods
+P00388836,Grocery,$4.14,5,Downtown Market,1,Meridian Foods
+P00192005,Grocery,$4.03,2,Oak Park,1,Meridian Foods
+P00015703,Grocery,$3.95,4,Hillcrest,1,Meridian Foods
+P00073892,Grocery,$3.69,8,Harbor Point,1,Meridian Foods
+P00044638,Grocery,$6.19,3,Lakeview,1,Meridian Foods
+P00039983,Grocery,$2.15,6,Westfield,1,Meridian Foods
+P00182405,Grocery,$4.43,8,Harbor Point,1,Meridian Foods
+P00018151,Grocery,$11.76,7,Northgate,1,Meridian Foods
+P00218484,Grocery,$8.67,5,Downtown Market,1,Meridian Foods
+P00107599,Grocery,$2.05,1,Riverside Supercenter,1,Meridian Foods
+P00292798,Grocery,$3.31,2,Oak Park,1,Meridian Foods
+P00243483,Grocery,$7.20,1,Riverside Supercenter,1,Meridian Foods
+P00121785,Grocery,$6.44,1,Riverside Supercenter,1,Meridian Foods
+P00104195,Grocery,$3.63,4,Hillcrest,1,Meridian Foods
+P00255750,Grocery,$10.89,3,Lakeview,1,Meridian Foods
+P00334575,Grocery,$2.51,2,Oak Park,1,Meridian Foods
+P00050114,Grocery,$17.28,8,Harbor Point,1,Meridian Foods
+P00104571,Grocery,$5.22,1,Riverside Supercenter,1,Meridian Foods
+P00386063,Grocery,$2.46,3,Lakeview,1,Meridian Foods
+P00142231,Grocery,$13.97,6,Westfield,1,Meridian Foods
+P00272318,Grocery,$8.76,5,Downtown Market,1,Meridian Foods
+P00388486,Grocery,$3.85,2,Oak Park,1,Meridian Foods
+P00044849,Grocery,$2.62,4,Hillcrest,1,Meridian Foods
+P00123934,Grocery,$14.62,3,Lakeview,1,Meridian Foods
+P00125048,Grocery,$5.04,7,Northgate,1,Meridian Foods
+P00292045,Grocery,$2.94,4,Hillcrest,1,Meridian Foods
+P00389888,Grocery,$9.04,1,Riverside Supercenter,1,Meridian Foods
+P00140054,Grocery,$4.67,5,Downtown Market,1,Meridian Foods
+P00114305,Grocery,$10.83,8,Harbor Point,1,Meridian Foods
+P00138004,Grocery,$2.48,1,Riverside Supercenter,1,Meridian Foods
+P00119486,Grocery,$24.33,4,Hillcrest,1,Meridian Foods
+P00378096,Grocery,$7.67,3,Lakeview,1,Meridian Foods
+P00301546,Grocery,$2.64,1,Riverside Supercenter,1,Meridian Foods
+P00205227,Grocery,$2.84,4,Hillcrest,1,Meridian Foods
+P00165857,Grocery,$5.95,3,Lakeview,1,Meridian Foods
+P00305841,Home & Kitchen,$17.23,8,Harbor Point,3,Evergreen Home
+P00050744,Home & Kitchen,$99.33,5,Downtown Market,3,Evergreen Home
+P00015900,Home & Kitchen,$10.38,7,Northgate,3,Evergreen Home
+P00318438,Home & Kitchen,$130.09,4,Hillcrest,3,Evergreen Home
+P00184841,Home & Kitchen,$113.74,1,Riverside Supercenter,3,Evergreen Home
+P00064704,Home & Kitchen,$34.76,3,Lakeview,3,Evergreen Home
+P00289337,Home & Kitchen,$18.36,8,Harbor Point,3,Evergreen Home
+P00138193,Home & Kitchen,$143.29,3,Lakeview,3,Evergreen Home
+P00100411,Home & Kitchen,$10.12,4,Hillcrest,3,Evergreen Home
+P00294586,Home & Kitchen,$179.18,2,Oak Park,3,Evergreen Home
+P00274365,Home & Kitchen,$35.88,2,Oak Park,3,Evergreen Home
+P00300945,Home & Kitchen,$58.73,6,Westfield,3,Evergreen Home
+P00164432,Home & Kitchen,$12.57,1,Riverside Supercenter,3,Evergreen Home
+P00146825,Home & Kitchen,$19.22,5,Downtown Market,3,Evergreen Home
+P00062680,Home & Kitchen,$132.39,1,Riverside Supercenter,3,Evergreen Home
+P00118238,Home & Kitchen,$180.66,5,Downtown Market,3,Evergreen Home
+P00395536,Home & Kitchen,$19.47,2,Oak Park,3,Evergreen Home
+P00344909,Home & Kitchen,$169.70,8,Harbor Point,3,Evergreen Home
+P00219864,Home & Kitchen,$148.77,1,Riverside Supercenter,3,Evergreen Home
+P00074977,Home & Kitchen,$68.09,5,Downtown Market,3,Evergreen Home
+P00230534,Home & Kitchen,$20.66,1,Riverside Supercenter,3,Evergreen Home
+P00118776,Home & Kitchen,$48.62,4,Hillcrest,3,Evergreen Home
+P00296404,Home & Kitchen,$9.82,4,Hillcrest,3,Evergreen Home
+P00323519,Home & Kitchen,$62.49,1,Riverside Supercenter,3,Evergreen Home
+P00050396,Home & Kitchen,$20.58,3,Lakeview,3,Evergreen Home
+P00360392,Home & Kitchen,$112.26,7,Northgate,3,Evergreen Home
+P00220762,Home & Kitchen,$198.53,6,Westfield,3,Evergreen Home
+P00146694,Home & Kitchen,$10.98,2,Oak Park,3,Evergreen Home
+P00326518,Home & Kitchen,$46.08,8,Harbor Point,3,Evergreen Home
+P00095481,Home & Kitchen,$85.69,3,Lakeview,3,Evergreen Home
+P00227095,Home & Kitchen,$13.32,4,Hillcrest,3,Evergreen Home
+P00306004,Home & Kitchen,$21.35,2,Oak Park,3,Evergreen Home
+P00291618,Home & Kitchen,$40.49,8,Harbor Point,3,Evergreen Home
+P00301056,Home & Kitchen,$20.65,4,Hillcrest,3,Evergreen Home
+P00245634,Home & Kitchen,$100.79,8,Harbor Point,3,Evergreen Home
+P00277588,Home & Kitchen,$13.99,3,Lakeview,3,Evergreen Home
+P00108156,Home & Kitchen,$71.46,1,Riverside Supercenter,3,Evergreen Home
+P00128827,Home & Kitchen,$14.12,3,Lakeview,3,Evergreen Home
+P00334450,Home & Kitchen,$53.00,2,Oak Park,3,Evergreen Home
+P00394241,Home & Kitchen,$178.81,6,Westfield,3,Evergreen Home
+P00095448,Home & Kitchen,$36.57,5,Downtown Market,3,Evergreen Home
+P00057755,Home & Kitchen,$168.08,5,Downtown Market,3,Evergreen Home
+P00334740,Home & Kitchen,$62.21,1,Riverside Supercenter,3,Evergreen Home
+P00172342,Home & Kitchen,$153.09,1,Riverside Supercenter,3,Evergreen Home
+P00202693,Home & Kitchen,$23.62,7,Northgate,3,Evergreen Home
+P00260364,Home & Kitchen,$142.61,1,Riverside Supercenter,3,Evergreen Home
+P00044779,Home & Kitchen,$110.64,5,Downtown Market,3,Evergreen Home
+P00385800,Home & Kitchen,$64.78,7,Northgate,3,Evergreen Home
+P00115109,Home & Kitchen,$9.57,3,Lakeview,3,Evergreen Home
+P00210595,Home & Kitchen,$9.92,6,Westfield,3,Evergreen Home
+P00176466,Home & Kitchen,$16.66,3,Lakeview,3,Evergreen Home
+P00347742,Home & Kitchen,$23.49,2,Oak Park,3,Evergreen Home
+P00362711,Home & Kitchen,$35.91,8,Harbor Point,3,Evergreen Home
+P00217266,Home & Kitchen,$97.03,1,Riverside Supercenter,3,Evergreen Home
+P00149555,Home & Kitchen,$30.80,2,Oak Park,3,Evergreen Home
+P00148747,Clothing,$28.51,1,Riverside Supercenter,7,Threadline Apparel
+P00203018,Clothing,$46.77,8,Harbor Point,7,Threadline Apparel
+P00333031,Clothing,$8.92,1,Riverside Supercenter,7,Threadline Apparel
+P00154693,Clothing,$21.54,4,Hillcrest,7,Threadline Apparel
+P00152603,Clothing,$12.20,2,Oak Park,7,Threadline Apparel
+P00177999,Clothing,$59.48,5,Downtown Market,7,Threadline Apparel
+P00134847,Clothing,$32.85,3,Lakeview,7,Threadline Apparel
+P00135273,Clothing,$27.82,3,Lakeview,7,Threadline Apparel
+P00370085,Clothing,$10.34,6,Westfield,7,Threadline Apparel
+P00209348,Clothing,$74.37,2,Oak Park,7,Threadline Apparel
+P00130658,Clothing,$15.61,7,Northgate,7,Threadline Apparel
+P00244657,Clothing,$9.61,4,Hillcrest,7,Threadline Apparel
+P00076105,Clothing,$25.67,8,Harbor Point,7,Threadline Apparel
+P00367450,Clothing,$14.97,5,Downtown Market,7,Threadline Apparel
+P00079817,Clothing,$65.00,1,Riverside Supercenter,7,Threadline Apparel
+P00031011,Clothing,$51.46,1,Riverside Supercenter,7,Threadline Apparel
+P00234292,Clothing,$8.89,1,Riverside Supercenter,7,Threadline Apparel
+P00346336,Clothing,$15.39,8,Harbor Point,7,Threadline Apparel
+P00371548,Clothing,$11.31,5,Downtown Market,7,Threadline Apparel
+P00342379,Clothing,$26.44,4,Hillcrest,7,Threadline Apparel
+P00082923,Clothing,$27.14,6,Westfield,7,Threadline Apparel
+P00353029,Clothing,$53.01,3,Lakeview,7,Threadline Apparel
+P00173948,Clothing,$24.00,2,Oak Park,7,Threadline Apparel
+P00163683,Clothing,$8.83,3,Lakeview,7,Threadline Apparel
+P00131534,Clothing,$17.95,1,Riverside Supercenter,7,Threadline Apparel
+P00251508,Clothing,$9.33,2,Oak Park,7,Threadline Apparel
+P00033203,Clothing,$17.12,7,Northgate,7,Threadline Apparel
+P00017709,Clothing,$21.64,5,Downtown Market,7,Threadline Apparel
+P00146168,Clothing,$66.26,8,Harbor Point,7,Threadline Apparel
+P00113346,Clothing,$12.35,4,Hillcrest,7,Threadline Apparel
+P00224068,Clothing,$11.66,4,Hillcrest,7,Threadline Apparel
+P00094100,Clothing,$57.75,1,Riverside Supercenter,7,Threadline Apparel
+P00312976,Clothing,$19.84,2,Oak Park,7,Threadline Apparel
+P00341486,Clothing,$23.85,5,Downtown Market,7,Threadline Apparel
+P00045535,Clothing,$17.33,5,Downtown Market,7,Threadline Apparel
+P00156731,Clothing,$50.85,3,Lakeview,7,Threadline Apparel
+P00280785,Clothing,$10.25,7,Northgate,7,Threadline Apparel
+P00069413,Clothing,$22.70,1,Riverside Supercenter,7,Threadline Apparel
+P00072622,Clothing,$40.46,8,Harbor Point,7,Threadline Apparel
+P00375232,Clothing,$12.09,6,Westfield,7,Threadline Apparel
+P00257978,Clothing,$48.86,1,Riverside Supercenter,7,Threadline Apparel
+P00108774,Clothing,$33.05,4,Hillcrest,7,Threadline Apparel
+P00252460,Clothing,$27.76,8,Harbor Point,7,Threadline Apparel
+P00321710,Clothing,$76.70,2,Oak Park,7,Threadline Apparel
+P00010017,Clothing,$18.64,3,Lakeview,7,Threadline Apparel
+P00044069,Clothing,$62.49,7,Northgate,7,Threadline Apparel
+P00173567,Clothing,$75.26,2,Oak Park,7,Threadline Apparel
+P00096978,Clothing,$23.49,4,Hillcrest,7,Threadline Apparel
+P00360036,Clothing,$8.16,2,Oak Park,7,Threadline Apparel
+P00063533,Clothing,$25.22,1,Riverside Supercenter,7,Threadline Apparel
+P00014797,Clothing,$25.10,8,Harbor Point,7,Threadline Apparel
+P00393363,Clothing,$38.83,3,Lakeview,7,Threadline Apparel
+P00076740,Clothing,$38.75,5,Downtown Market,7,Threadline Apparel
+P00066875,Clothing,$10.78,6,Westfield,7,Threadline Apparel
+P00219076,Clothing,$31.49,8,Harbor Point,7,Threadline Apparel
+P00283656,Clothing,$51.49,5,Downtown Market,7,Threadline Apparel
+P00234457,Clothing,$62.49,1,Riverside Supercenter,7,Threadline Apparel
+P00022399,Clothing,$17.24,3,Lakeview,7,Threadline Apparel
+P00130128,Clothing,$11.28,4,Hillcrest,7,Threadline Apparel
+P00107671,Clothing,$32.67,1,Riverside Supercenter,7,Threadline Apparel
+P00148968,Health & Beauty,$15.13,1,Riverside Supercenter,5,Pure Care Labs
+P00164111,Health & Beauty,$56.68,5,Downtown Market,5,Pure Care Labs
+P00326701,Health & Beauty,$8.70,4,Hillcrest,5,Pure Care Labs
+P00036424,Health & Beauty,$26.77,2,Oak Park,5,Pure Care Labs
+P00317914,Health & Beauty,$55.83,3,Lakeview,5,Pure Care Labs
+P00265634,Health & Beauty,$22.14,5,Downtown Market,5,Pure Care Labs
+P00297926,Health & Beauty,$5.58,8,Harbor Point,5,Pure Care Labs
+P00047212,Health & Beauty,$30.84,1,Riverside Supercenter,5,Pure Care Labs
+P00240041,Health & Beauty,$23.73,3,Lakeview,5,Pure Care Labs
+P00141719,Health & Beauty,$41.70,6,Westfield,5,Pure Care Labs
+P00368481,Health & Beauty,$26.20,4,Hillcrest,5,Pure Care Labs
+P00332054,Health & Beauty,$21.54,2,Oak Park,5,Pure Care Labs
+P00374040,Health & Beauty,$6.19,7,Northgate,5,Pure Care Labs
+P00112810,Health & Beauty,$33.68,8,Harbor Point,5,Pure Care Labs
+P00049837,Health & Beauty,$12.27,1,Riverside Supercenter,5,Pure Care Labs
+P00179740,Health & Beauty,$38.71,1,Riverside Supercenter,5,Pure Care Labs
+P00044144,Health & Beauty,$4.39,8,Harbor Point,5,Pure Care Labs
+P00279208,Health & Beauty,$19.89,8,Harbor Point,5,Pure Care Labs
+P00347427,Health & Beauty,$50.57,4,Hillcrest,5,Pure Care Labs
+P00012321,Health & Beauty,$14.79,3,Lakeview,5,Pure Care Labs
+P00039356,Health & Beauty,$37.64,2,Oak Park,5,Pure Care Labs
+P00097047,Health & Beauty,$19.88,5,Downtown Market,5,Pure Care Labs
+P00088885,Health & Beauty,$11.88,1,Riverside Supercenter,5,Pure Care Labs
+P00252261,Health & Beauty,$22.67,2,Oak Park,5,Pure Care Labs
+P00194858,Health & Beauty,$27.42,7,Northgate,5,Pure Care Labs
+P00275741,Health & Beauty,$6.26,3,Lakeview,5,Pure Care Labs
+P00091913,Health & Beauty,$24.69,1,Riverside Supercenter,5,Pure Care Labs
+P00053010,Health & Beauty,$35.73,5,Downtown Market,5,Pure Care Labs
+P00354153,Health & Beauty,$5.02,6,Westfield,5,Pure Care Labs
+P00255269,Health & Beauty,$9.86,4,Hillcrest,5,Pure Care Labs
+P00257332,Health & Beauty,$16.38,1,Riverside Supercenter,5,Pure Care Labs
+P00175084,Health & Beauty,$36.86,4,Hillcrest,5,Pure Care Labs
+P00125815,Health & Beauty,$10.03,1,Riverside Supercenter,5,Pure Care Labs
+P00324487,Health & Beauty,$8.70,3,Lakeview,5,Pure Care Labs
+P00343177,Health & Beauty,$21.85,3,Lakeview,5,Pure Care Labs
+P00144619,Health & Beauty,$12.61,1,Riverside Supercenter,5,Pure Care Labs
+P00275381,Health & Beauty,$22.83,2,Oak Park,5,Pure Care Labs
+P00288702,Health & Beauty,$43.40,8,Harbor Point,5,Pure Care Labs
+P00151714,Health & Beauty,$7.41,4,Hillcrest,5,Pure Care Labs
+P00291380,Health & Beauty,$51.39,6,Westfield,5,Pure Care Labs
+P00357676,Health & Beauty,$12.65,5,Downtown Market,5,Pure Care Labs
+P00069028,Health & Beauty,$21.84,8,Harbor Point,5,Pure Care Labs
+P00260622,Health & Beauty,$47.93,5,Downtown Market,5,Pure Care Labs
+P00129154,Health & Beauty,$9.69,7,Northgate,5,Pure Care Labs
+P00114337,Health & Beauty,$5.02,2,Oak Park,5,Pure Care Labs
+P00106421,Toys & Games,$20.43,3,Lakeview,6,Playmakers Toys
+P00036718,Toys & Games,$110.17,2,Oak Park,6,Playmakers Toys
+P00074172,Toys & Games,$8.19,4,Hillcrest,6,Playmakers Toys
+P00068656,Toys & Games,$23.60,8,Harbor Point,6,Playmakers Toys
+P00340071,Toys & Games,$22.38,2,Oak Park,6,Playmakers Toys
+P00339652,Toys & Games,$8.80,1,Riverside Supercenter,6,Playmakers Toys
+P00031013,Toys & Games,$24.86,8,Harbor Point,6,Playmakers Toys
+P00185509,Toys & Games,$26.80,6,Westfield,6,Playmakers Toys
+P00362228,Toys & Games,$35.60,5,Downtown Market,6,Playmakers Toys
+P00289151,Toys & Games,$40.14,1,Riverside Supercenter,6,Playmakers Toys
+P00111659,Toys & Games,$12.16,4,Hillcrest,6,Playmakers Toys
+P00368396,Toys & Games,$19.85,7,Northgate,6,Playmakers Toys
+P00037273,Toys & Games,$24.50,5,Downtown Market,6,Playmakers Toys
+P00336491,Toys & Games,$20.20,1,Riverside Supercenter,6,Playmakers Toys
+P00215285,Toys & Games,$10.11,3,Lakeview,6,Playmakers Toys
+P00392208,Toys & Games,$10.98,4,Hillcrest,6,Playmakers Toys
+P00293295,Toys & Games,$46.43,5,Downtown Market,6,Playmakers Toys
+P00087323,Toys & Games,$8.40,5,Downtown Market,6,Playmakers Toys
+P00079054,Toys & Games,$115.80,4,Hillcrest,6,Playmakers Toys
+P00037737,Toys & Games,$39.14,8,Harbor Point,6,Playmakers Toys
+P00304706,Toys & Games,$12.80,1,Riverside Supercenter,6,Playmakers Toys
+P00041770,Toys & Games,$9.38,1,Riverside Supercenter,6,Playmakers Toys
+P00392992,Toys & Games,$24.48,1,Riverside Supercenter,6,Playmakers Toys
+P00214488,Toys & Games,$68.91,3,Lakeview,6,Playmakers Toys
+P00025349,Toys & Games,$25.97,8,Harbor Point,6,Playmakers Toys
+P00300167,Toys & Games,$10.22,3,Lakeview,6,Playmakers Toys
+P00333222,Toys & Games,$23.25,6,Westfield,6,Playmakers Toys
+P00174991,Toys & Games,$10.16,7,Northgate,6,Playmakers Toys
+P00372332,Toys & Games,$112.33,2,Oak Park,6,Playmakers Toys
+P00284658,Toys & Games,$18.38,2,Oak Park,6,Playmakers Toys
+P00245013,Toys & Games,$20.88,2,Oak Park,6,Playmakers Toys
+P00055507,Toys & Games,$26.78,5,Downtown Market,6,Playmakers Toys
+P00170059,Toys & Games,$18.18,4,Hillcrest,6,Playmakers Toys
+P00382818,Toys & Games,$42.96,1,Riverside Supercenter,6,Playmakers Toys
+P00364511,Toys & Games,$55.38,3,Lakeview,6,Playmakers Toys
+P00055978,Toys & Games,$10.12,3,Lakeview,6,Playmakers Toys
+P00021529,Toys & Games,$10.77,4,Hillcrest,6,Playmakers Toys
+P00222001,Toys & Games,$12.98,1,Riverside Supercenter,6,Playmakers Toys
+P00094407,Toys & Games,$30.72,2,Oak Park,6,Playmakers Toys
+P00397231,Toys & Games,$12.81,6,Westfield,6,Playmakers Toys
+P00215322,Sports & Outdoors,$116.87,6,Westfield,4,Summit Sports
+P00226680,Sports & Outdoors,$72.32,1,Riverside Supercenter,4,Summit Sports
+P00177114,Sports & Outdoors,$34.67,4,Hillcrest,4,Summit Sports
+P00170655,Sports & Outdoors,$20.73,2,Oak Park,4,Summit Sports
+P00212532,Sports & Outdoors,$78.20,2,Oak Park,4,Summit Sports
+P00064429,Sports & Outdoors,$27.37,8,Harbor Point,4,Summit Sports
+P00367407,Sports & Outdoors,$205.70,1,Riverside Supercenter,4,Summit Sports
+P00343144,Sports & Outdoors,$229.55,4,Hillcrest,4,Summit Sports
+P00173641,Sports & Outdoors,$15.00,7,Northgate,4,Summit Sports
+P00023389,Sports & Outdoors,$62.64,3,Lakeview,4,Summit Sports
+P00230397,Sports & Outdoors,$49.70,5,Downtown Market,4,Summit Sports
+P00268638,Sports & Outdoors,$15.74,8,Harbor Point,4,Summit Sports
+P00361136,Sports & Outdoors,$27.37,1,Riverside Supercenter,4,Summit Sports
+P00282309,Sports & Outdoors,$15.93,5,Downtown Market,4,Summit Sports
+P00333440,Sports & Outdoors,$26.82,3,Lakeview,4,Summit Sports
+P00112646,Sports & Outdoors,$198.93,7,Northgate,4,Summit Sports
+P00185120,Sports & Outdoors,$28.91,2,Oak Park,4,Summit Sports
+P00065113,Sports & Outdoors,$26.16,1,Riverside Supercenter,4,Summit Sports
+P00058115,Sports & Outdoors,$29.03,3,Lakeview,4,Summit Sports
+P00293189,Sports & Outdoors,$132.16,5,Downtown Market,4,Summit Sports
+P00026616,Sports & Outdoors,$41.01,8,Harbor Point,4,Summit Sports
+P00142465,Sports & Outdoors,$19.30,1,Riverside Supercenter,4,Summit Sports
+P00020587,Sports & Outdoors,$21.73,4,Hillcrest,4,Summit Sports
+P00084297,Sports & Outdoors,$107.87,4,Hillcrest,4,Summit Sports
+P00063072,Sports & Outdoors,$30.94,2,Oak Park,4,Summit Sports
+P00111621,Sports & Outdoors,$19.53,1,Riverside Supercenter,4,Summit Sports
+P00161967,Sports & Outdoors,$80.87,3,Lakeview,4,Summit Sports
+P00324280,Sports & Outdoors,$54.60,8,Harbor Point,4,Summit Sports
+P00310419,Sports & Outdoors,$122.93,6,Westfield,4,Summit Sports
+P00091749,Sports & Outdoors,$101.07,5,Downtown Market,4,Summit Sports
+P00037054,Sports & Outdoors,$27.98,5,Downtown Market,4,Summit Sports
+P00266535,Sports & Outdoors,$150.47,3,Lakeview,4,Summit Sports
+P00364507,Sports & Outdoors,$152.68,2,Oak Park,4,Summit Sports
+P00021668,Sports & Outdoors,$40.65,7,Northgate,4,Summit Sports
+P00065132,Sports & Outdoors,$111.23,8,Harbor Point,4,Summit Sports
+P00108295,Household Essentials,$3.11,1,Riverside Supercenter,1,Meridian Foods
+P00140834,Household Essentials,$14.23,7,Northgate,1,Meridian Foods
+P00287291,Household Essentials,$18.46,5,Downtown Market,1,Meridian Foods
+P00302054,Household Essentials,$10.38,1,Riverside Supercenter,1,Meridian Foods
+P00295621,Household Essentials,$6.59,8,Harbor Point,1,Meridian Foods
+P00152687,Household Essentials,$17.08,1,Riverside Supercenter,1,Meridian Foods
+P00211572,Household Essentials,$7.24,8,Harbor Point,1,Meridian Foods
+P00056743,Household Essentials,$28.75,2,Oak Park,1,Meridian Foods
+P00193753,Household Essentials,$5.43,4,Hillcrest,1,Meridian Foods
+P00112432,Household Essentials,$3.47,3,Lakeview,1,Meridian Foods
+P00195019,Household Essentials,$14.35,4,Hillcrest,1,Meridian Foods
+P00065856,Household Essentials,$5.96,5,Downtown Market,1,Meridian Foods
+P00348483,Household Essentials,$11.99,2,Oak Park,1,Meridian Foods
+P00234576,Household Essentials,$18.32,6,Westfield,1,Meridian Foods
+P00154188,Household Essentials,$3.40,3,Lakeview,1,Meridian Foods
+P00243722,Household Essentials,$8.72,7,Northgate,1,Meridian Foods
+P00078821,Household Essentials,$6.55,5,Downtown Market,1,Meridian Foods
+P00211202,Household Essentials,$8.82,3,Lakeview,1,Meridian Foods
+P00097653,Household Essentials,$11.10,4,Hillcrest,1,Meridian Foods
+P00090616,Household Essentials,$10.77,8,Harbor Point,1,Meridian Foods
+P00252583,Household Essentials,$11.24,6,Westfield,1,Meridian Foods
+P00031366,Household Essentials,$14.42,1,Riverside Supercenter,1,Meridian Foods
+P00327231,Household Essentials,$5.60,5,Downtown Market,1,Meridian Foods
+P00227644,Household Essentials,$5.19,8,Harbor Point,1,Meridian Foods
+P00281723,Household Essentials,$15.70,2,Oak Park,1,Meridian Foods
+P00369658,Household Essentials,$4.88,1,Riverside Supercenter,1,Meridian Foods
+P00241854,Household Essentials,$3.71,1,Riverside Supercenter,1,Meridian Foods
+P00362069,Household Essentials,$4.02,2,Oak Park,1,Meridian Foods
+P00076111,Household Essentials,$5.57,4,Hillcrest,1,Meridian Foods
+P00102026,Household Essentials,$3.57,3,Lakeview,1,Meridian Foods
+P00028267,Household Essentials,$4.90,3,Lakeview,1,Meridian Foods
+P00049253,Household Essentials,$15.46,2,Oak Park,1,Meridian Foods
+P00210625,Household Essentials,$4.04,2,Oak Park,1,Meridian Foods
+P00166224,Household Essentials,$3.88,8,Harbor Point,1,Meridian Foods
+P00269917,Household Essentials,$21.56,8,Harbor Point,1,Meridian Foods
